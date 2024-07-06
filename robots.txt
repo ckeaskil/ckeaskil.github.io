@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ckeaskil.github.io/sitemap
+Sitemap: https://ckeaskil.github.io/app/sitemap
+Sitemap: https://ckeaskil.github.io/assets/sitemap
+Sitemap: https://ckeaskil.github.io/css/sitemap
+Sitemap: https://ckeaskil.github.io/includes/sitemap
+Sitemap: https://ckeaskil.github.io/item/sitemap
+Sitemap: https://ckeaskil.github.io/src/sitemap
